@@ -1,4 +1,4 @@
-package com.mqtt.cloud;
+﻿package com.mqtt.cloud;
 
 import org.eclipse.paho.client.mqttv3.*;
 import org.eclipse.paho.client.mqttv3.persist.MemoryPersistence;
@@ -9,7 +9,7 @@ public class Cloud extends Thread{
     String host = "tcp://172.20.35.124:1883";
     //订阅的主题
     String topic;
-    //消息质量
+    //
     int qos = 1;
     //线程id
     String threadId;
