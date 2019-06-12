@@ -2,8 +2,8 @@ Thanks everyone for your participation.
 In summary, 35 community members have submitted the [form](http://nyancat-irisnet.mikecrm.com/SnqhRqw) so far. Among them, 17 members have submitted inaccessible server ip.  The rest of members have joined the testnet as validator successfully. But 13 of them are using the moniker with wrong format. Please follow the [doc](https://github.com/irisnet/testnets/tree/master/nyancat) to start your node correctly and use the right format as the [doc](https://github.com/irisnet/testnets/tree/master/nyancat/v0.14) declared to name your moniker.
 Here are some details for Nyancat:
 
-|                                 |                                          | Task 1                                                       |                   |           | 
-| ------------------------------- | ---------------------------------------- | ------------------------------------------------------------ | ----------------- | --------- | --------------------------------------------------------- | ----------------- | --------- | ------------------------------------------------------------ | ----------------- | --------- | ------------------------------------------------------------ | ----------------- | --------- | ----------- |
+||| Task 1||| 
+|:-: | :-: | :-: | :-: | :-: |
 | Github ID  of                 | PGP ID                                   | Link                                                         | Complete | Note | 
 | <https://github.com/iammelea>  | 4BE49EABAA41B8BF                         | <http://144.217.215.73:26657/status>               | 1                 | Using a non-conformant moniker        |
 <https://github.com/jim380>  | 5CCA4F526B9F85DA                         | <http://144.202.105.89:26657/status>               | 0                 |        |
