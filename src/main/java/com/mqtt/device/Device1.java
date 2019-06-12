@@ -11,7 +11,7 @@ public class Device1 {
     public static void main(String[] args) {
 
         String topic = "device/1";
-        String content = "l am device 1";
+        String content = "l am device 1 at cloud have";
         int qos = 1;
         String broker = "tcp://172.20.35.124:1883";
         String userName = "test";
